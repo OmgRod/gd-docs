@@ -169,6 +169,10 @@ export default [
                 "link": "/endpoints/misc/lb/icon-extras"
               },
               {
+                "text": "top-creators.json",
+                "link": "/endpoints/misc/lb/top-creators"
+              },
+              {
                 "text": "top-demons.json",
                 "link": "/endpoints/misc/lb/top-demons"
               },
@@ -210,10 +214,6 @@ export default [
           {
             "text": "restoreGJItems.php",
             "link": "/endpoints/misc/restoreGJItems"
-          },
-          {
-            "text": "top-creators.json",
-            "link": "/endpoints/misc/top-creators"
           }
         ],
         "collapsed": true
